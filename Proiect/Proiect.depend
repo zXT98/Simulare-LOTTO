@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1512395201 source:c:\users\catal\desktop\new folder\proiect\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1513066967 c:\users\catal\desktop\new folder\proiect\header.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1513605034 source:c:\users\catal\desktop\proiect 6,49\proiect\main.c
+	<stdio.h>
+	<stdlib.h>
+	"structuri.h"
+	"functii.h"
+
+1513092402 c:\users\catal\desktop\proiect 6,49\proiect\header.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1515419043 c:\users\catal\desktop\proiect 6,49\proiect\structuri.h
+
+1515419435 c:\users\catal\desktop\proiect 6,49\proiect\functii.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1515434304 source:d:\proiect 6,49\proiect\main.c
+	<stdio.h>
+	<stdlib.h>
+	"structuri.h"
+	"functii.h"
+
+1515434318 d:\proiect 6,49\proiect\structuri.h
+
+1515434432 d:\proiect 6,49\proiect\functii.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1515434304 source:e:\facultate\informatica\proiect 6,49\proiect\main.c
+	<stdio.h>
+	<stdlib.h>
+	"structuri.h"
+	"functii.h"
+
+1515434318 e:\facultate\informatica\proiect 6,49\proiect\structuri.h
+
+1515665457 e:\facultate\informatica\proiect 6,49\proiect\functii.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1515434304 source:c:\users\catal\desktop\proiect\main.c
+	<stdio.h>
+	<stdlib.h>
+	"structuri.h"
+	"functii.h"
+
+1515434318 c:\users\catal\desktop\proiect\structuri.h
+
+1515673823 c:\users\catal\desktop\proiect\functii.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
